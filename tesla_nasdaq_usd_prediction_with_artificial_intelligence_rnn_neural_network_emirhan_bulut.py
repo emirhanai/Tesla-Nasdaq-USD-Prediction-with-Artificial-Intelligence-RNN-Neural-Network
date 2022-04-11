@@ -8,10 +8,12 @@ Original file is located at
 
 # Tesla/Nasdaq USD Prediction with Artificial Intelligence RNN Neural Network - Emirhan BULUT
 
+---
+
 Tesla/Nasdaq USD Prediction with Artificial Intelligence RNN Neural Network
 I developed Tesla/Nasdaq USD Prediction with RNN Neural Network software with Artificial Intelligence. I predicted the fall on April 8, 2022 with 97.04% accuracy in the TESLA/USD pair. '0.0325847058254806' MAE Score, '0.001749750789686177' MSE Score, 97.04% Accuracy Question software has been completed.
 
-The ETH/USDT pair forecast for April 8, 2022 was correctly forecasted based on data from Nasdaq.
+The TESLA/USD pair forecast for April 8, 2022 was correctly forecasted based on data from Nasdaq.
 
 Software codes and information are shared with you as open source code free of charge on GitHub and My Personal Web Address.
 
@@ -61,9 +63,9 @@ Official Website: **[https://www.emirhanbulut.com.tr][OfficialWebSite]**
 [OfficialWebSite]: https://www.emirhanbulut.com.tr
 
 ```Prediction: 
--0.04899706 equeals of 2608.594277 USDT
-Real ETH Value (for 2/24/2022) is 2562.79248 
-Test Accuracy is %98.21```
+0.798371 equeals of 1055.7771 USD == Prediction
+Real Tesla Nasdaq Value (for 4/8/2022) is 1025.49 USD
+Test Accuracy is 0.9704657289594487 ```
 """
 
 from tensorflow.keras.models import Sequential
