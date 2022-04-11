@@ -1,3 +1,7 @@
+# Tesla/Nasdaq USD Prediction with Artificial Intelligence RNN Neural Network - Emirhan BULUT
+
+---
+
 Tesla/Nasdaq USD Prediction with Artificial Intelligence RNN Neural Network
 I developed Tesla/Nasdaq USD Prediction with RNN Neural Network software with Artificial Intelligence. I predicted the fall on April 8, 2022 with 97.04% accuracy in the TESLA/USD pair. '0.0325847058254806' MAE Score, '0.001749750789686177' MSE Score, 97.04% Accuracy Question software has been completed.
 
